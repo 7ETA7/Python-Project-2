@@ -56,5 +56,3 @@ up, down, left = "town", "stairs", "right"
 print(up)
 print(down)
 print(left)
-print(r)
-
